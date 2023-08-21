@@ -1,0 +1,13 @@
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\bin\Debug\Banco.exe.config
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\bin\Debug\Banco.exe
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\bin\Debug\Banco.pdb
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.exe
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.pdb
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.view.Form1.resources
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.view.Login.resources
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.view.Register.resources
+C:\Users\leona\Desktop\C# Workspace\Amateur\Banco\obj\Debug\Banco.Welcome.resources
